@@ -4,6 +4,10 @@ on:
       - main
   workflow_dispatch:
 
+permissions:
+  contents: write
+  pull-requests: write
+
 name: Release Please
 
 jobs:
