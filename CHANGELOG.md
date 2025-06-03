@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.0](https://github.com/snittnaus/github-unleashed-sample-app/compare/v0.0.1...v0.1.0) (2025-06-03)
+
+
+### Features
+
+* added a new feature ([d206d13](https://github.com/snittnaus/github-unleashed-sample-app/commit/d206d13eeb48c0ec6f39b61ca3a4e5383944c88f))
+
 ## 0.0.1 (2025-06-03)
 
 
